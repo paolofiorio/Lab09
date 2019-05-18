@@ -51,7 +51,7 @@ public class Country {
 	}
 	@Override
 	public String toString() {
-		return String.format("Country [stateName=%s]", stateName);
+		return String.format("%s", stateName);
 	}
 	
 	
